@@ -1,0 +1,8 @@
+{
+  "name": "RenovateProAI",
+  "description": "AI-powered app that generates realistic before & after project images for contractors.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
